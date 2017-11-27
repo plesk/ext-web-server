@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 1999-2017. Parallels IP Holdings GmbH. -->
+<module>
+  <id>web-server</id>
+  <name>Web server configs example</name>
+  <description>This extension is intended to demonstrate how to manipulate web server configs.</description>
+  <version>1.0.0</version>
+  <release>1</release>
+  <vendor>Plesk</vendor>
+  <plesk_min_version>17.0</plesk_min_version>
+  <platform>unix</platform>
+</module>
