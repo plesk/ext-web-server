@@ -8,5 +8,5 @@
   <release>1</release>
   <vendor>Plesk</vendor>
   <plesk_min_version>17.0</plesk_min_version>
-  <platform>unix</platform>
+  <os>unix</os>
 </module>
